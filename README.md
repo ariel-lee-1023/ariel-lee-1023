@@ -29,17 +29,18 @@ costing nothing until a question actually needs one. It re-points the extraction
 from [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) (MIT) at
 a different output shape; the engine is his, the architecture is mine.
 
-**Perspective skills.** A single thinker's method, reconstructed as a lens an agent can
-think through — Wittgenstein, Feynman, Schumpeter, Polanyi, Tocqueville, Plutarch,
-Kaplan, and others. These are thinking lenses, not impersonations. None of them will
-attribute an invented statement to a real person, and each says so in its own frontmatter.
+**Perspective skills.** A single thinker's method, reconstructed as a lens an agent
+can think through. [`wittgenstein-perspective`](https://github.com/ariel-lee-1023/wittgenstein-perspective)
+returns words to their use, watches for the picture that is steering a problem, and asks
+what would count as going on correctly; Feynman, Schumpeter, Polanyi, Tocqueville,
+Plutarch, Kaplan, and others do the same for their own methods. These are thinking
+lenses, not impersonations. None of them will attribute an invented statement to a real
+person, and each says so in its own frontmatter.
 
 **Domain advisors.** The same method aimed at professional judgment rather than a person:
 [`legal-reasoning-advisor`](https://github.com/ariel-lee-1023/legal-reasoning-advisor)
 sorts a legal argument into four load-bearing moves — factual, classificatory,
-precedent-application, policy — to find the joint the conclusion actually turns on;
-[`TechLaw-colleague`](https://github.com/ariel-lee-1023/TechLaw-colleague) runs technology
-regulation through institutional, efficiency-refusal, and doctrinal-mechanics passes.
+precedent-application, policy — to find the joint the conclusion actually turns on.
 Others cover labor-dispute defense, personal finance, translation, and color matching.
 
 **Corpora.** Structured source material the skills read from.
