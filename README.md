@@ -1,17 +1,10 @@
 # Ariel Lee
 
-I write specifications precise enough that another party can execute expert judgment
-without exercising it.
+I take things I have read and rebuild them as something an agent can load and reason with. Not a summary of the material — its working parts.
 
-That sentence describes most of what is in this account, and it is also a description of
-statutory and contract drafting — which is what I study. I am a law student (LL.B. 2027,
-Macau University of Science and Technology), and the repositories here are what happens
-when I take that instinct to a different reader: instead of a court or a counterparty,
-the thing reading the specification is a model.
+I am a law student, which is where the habit comes from. A statute or a contract is a specification: it has to survive being read by someone who was not in the room when it was written. Most of what is in this account is that discipline pointed at a different reader.
 
-Concretely: I take a body of expertise — a philosopher's collected work, a line of case
-law, a shelf of decision theory — and rebuild it as a module an agent can load and reason
-from. Not a summary of the material. The working parts of it.
+Concretely: a philosopher's collected work, a line of case law, a shelf of decision theory — taken apart until the load-bearing pieces are visible, then rebuilt as a module. The point is never to hand the judgment over. It is to make the structure of a judgment visible enough to argue with, including where it runs out.
 
 ---
 
