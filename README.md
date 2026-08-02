@@ -30,7 +30,11 @@ person's public record into an embodiment-ready perspective skill, selecting for
 traits that actually distinguish that person rather than countable surface style, and
 verifying the result against held-out material.
 [`Books-to-Skill-Refs`](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) does the
-same for a shelf of books.
+same for a shelf of books at once, under a hard constraint: the master router that stays
+loaded is capped at roughly 2,500 tokens, and every per-book reference sits beside it,
+costing nothing until a question actually needs one. It re-points the extraction engine
+from [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) (MIT) at
+a different output shape; the engine is his, the architecture is mine.
 
 **Perspective skills.** A single thinker's method, reconstructed as a lens an agent can
 think through — Wittgenstein, Feynman, Schumpeter, Polanyi, Tocqueville, Plutarch,
@@ -43,12 +47,17 @@ sorts a legal argument into four load-bearing moves — factual, classificatory,
 precedent-application, policy — to find the joint the conclusion actually turns on;
 [`TechLaw-colleague`](https://github.com/ariel-lee-1023/TechLaw-colleague) runs technology
 regulation through institutional, efficiency-refusal, and doctrinal-mechanics passes.
-Others cover labour-dispute defence, personal finance, translation, and colour matching.
+Others cover labor-dispute defense, personal finance, translation, and color matching.
 
-**Corpora.** Structured source material the skills read from, including
-[`prc-legal-sources`](https://github.com/ariel-lee-1023/prc-legal-sources) — PRC statutes
-converted from official PDFs to normalized Markdown through an automated pipeline with
-OCR fallback.
+**Corpora.** Structured source material the skills read from.
+[`prc-legal-sources`](https://github.com/ariel-lee-1023/prc-legal-sources) organizes PRC
+legal materials by legal effect — constitution, statutes, administrative regulations,
+local regulations, rules, judicial interpretations, guiding cases, and court guidance
+documents, in that order of authority — and converts them from official PDFs to
+normalized Markdown through an automated pipeline: text-layer extraction with dual-column
+gazette handling, Chinese OCR where the source is scanned, and a last-resort fallback.
+The hierarchy is the point; an agent that cites from it cannot silently treat a
+departmental rule as a statute.
 
 ---
 
@@ -70,7 +79,7 @@ is organized rather than from how prompts are usually written:
    falls outside what its sources cover. This is the part most worth keeping.
 
 Provenance is tracked in `NOTICE.md` and `references/provenance.md` in each repository.
-Everything original is MIT-licensed; the licence does not extend to the underlying source
+Everything original is MIT-licensed; the license does not extend to the underlying source
 works, which remain with their copyright holders, and no repository reproduces them beyond
 short anchors kept for auditing.
 
