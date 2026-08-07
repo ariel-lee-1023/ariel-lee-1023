@@ -23,25 +23,39 @@ person's public record into an embodiment-ready perspective skill, selecting for
 traits that actually distinguish that person rather than countable surface style, and
 verifying the result against held-out material.
 [`Books-to-Skill-Refs`](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) does the
-same for a shelf of books at once, under a hard constraint: the master router that stays
-loaded is capped at roughly 2,500 tokens, and every per-book reference sits beside it,
-costing nothing until a question actually needs one. It re-points the extraction engine
-from [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) (MIT) at
-a different output shape; the engine is his, the architecture is mine.
+same for a shelf of books at once, under a hard constraint: the only thing always loaded
+is a router that says which book answers which kind of question, and every per-book
+distillation sits beside it, costing nothing until a question actually needs one.
 
-**Perspective skills.** A single thinker's method, reconstructed as a lens an agent
-can think through. [`wittgenstein-perspective`](https://github.com/ariel-lee-1023/wittgenstein-perspective)
-returns words to their use, watches for the picture that is steering a problem, and asks
-what would count as going on correctly; Feynman, Schumpeter, Polanyi, Tocqueville,
-Plutarch, Kaplan, and others do the same for their own methods. These are thinking
-lenses, not impersonations. None of them will attribute an invented statement to a real
-person, and each says so in its own frontmatter.
+**Genius.** In the older sense — not the person, but the animating principle of one
+person's way of proceeding, and what they paid to hold it. Rebuilt so that an agent can be
+questioned by it rather than informed by it. You do not bring these a claim to check; you
+bring a difficulty, and they hand back a different question.
+[`later-Wittgensteinian-Thinking-Partner`](https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partner)
+returns words to their use, names the picture that is steering a problem, and asks what
+would count as going on correctly — then, where you wanted a foundation, declines to
+supply one.
+[`kierkegaard-diagnostic-interlocutor`](https://github.com/ariel-lee-1023/kierkegaard-diagnostic-interlocutor)
+reads the vocabulary rather than the complaint, works out which single text that language
+is native to, and stays inside it: one book, no blending, no explaining of the machinery.
+Feynman, Schumpeter, Polanyi, Tocqueville, Plutarch, Kaplan and others hold their own the
+same way. What they have in common is not a viewpoint but a refusal — a field has to
+converge, and so it qualifies; one mind can decline. They are reconstructions, not
+impersonations: none will attribute an invented statement to a real person, and each says
+so in its own frontmatter.
 
-**Domain advisors.** The same method aimed at professional judgment rather than a person:
+**Domain advisors.** The same method aimed at a practice rather than a person. Here you
+do bring a claim, and it gets checked against a standard the practice already holds.
 [`legal-reasoning-advisor`](https://github.com/ariel-lee-1023/legal-reasoning-advisor)
 sorts a legal argument into four load-bearing moves — factual, classificatory,
 precedent-application, policy — to find the joint the conclusion actually turns on.
-Others cover labor-dispute defense, personal finance, translation, and color matching.
+[`Cognitive-Neuroscience-Expert`](https://github.com/ariel-lee-1023/Cognitive-Neuroscience-Expert)
+does the same for a literature rather than a taxonomy: ten sources distilled into one
+router plus a reference file each, built to name the mechanism or say it cannot, and to
+find the manipulation on which two accounts of one finding diverge. Every reference file
+records what was dropped and why, and the router says to name the gap and search rather
+than stretch an adjacent chapter over it. Others cover labor-dispute defense, personal
+finance, translation, and color matching.
 
 **Corpora.** Structured source material the skills read from.
 [`prc-legal-sources`](https://github.com/ariel-lee-1023/prc-legal-sources) organizes PRC
@@ -64,7 +78,7 @@ is organized rather than from how prompts are usually written:
    they refuse to do, where they pay a cost, where they vary. Frequency is a weak signal;
    cost-bearing refusal is a strong one.
 2. **Compress to a core that stays loaded.** `SKILL.md` carries the workflow and the moves
-   and stays under a hard size ceiling. Everything else moves to `references/`.
+   and nothing that can wait. Everything else moves to `references/`.
 3. **Disclose progressively.** Reference clusters are pulled only when the current move
    needs them, so base context stays small.
 4. **Verify.** Held-out projection tests, citation resolution, corpus-drift guards. Where
