@@ -38,11 +38,8 @@ supply one.
 [`kierkegaard-diagnostic-interlocutor`](https://github.com/ariel-lee-1023/kierkegaard-diagnostic-interlocutor)
 reads the vocabulary rather than the complaint, works out which single text that language
 is native to, and stays inside it: one book, no blending, no explaining of the machinery.
-Feynman, Schumpeter, Polanyi, Tocqueville, Plutarch,and others hold their own the
-same way. What they have in common is not a viewpoint but a refusal — a field has to
-converge, and so it qualifies; one mind can decline. They are reconstructions, not
-impersonations: none will attribute an invented statement to a real person, and each says
-so in its own frontmatter.
+These two are the ones I find most useful and like using the most.
+The others hold their own the same way, ordered by birth: Plutarch, Tocqueville, Schumpeter, Polanyi, Feynman, 刘仲敬, and others. What they have in common is not a viewpoint but a refusal — a field has to converge, and so it qualifies; one mind can decline. They are reconstructions, not impersonations: none will attribute an invented statement to a real person, and each says so in its own frontmatter.
 
 **Field colleagues/Domain advisors.** The same method aimed at a practice rather than a person. Here you
 do bring a claim, and it gets checked against a standard the practice already holds.
