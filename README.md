@@ -27,7 +27,7 @@ same for a shelf of books at once, under a hard constraint: the only thing alway
 is a router that says which book answers which kind of question, and every per-book
 distillation sits beside it, costing nothing until a question actually needs one.
 
-**Genius that Relocates.** In the older sense — not the person, but the animating principle of one person’s way of proceeding, and what they paid to hold it. Rebuilt so that an agent can be questioned by it rather than informed by it. You do not bring these a claim to check; you bring a difficulty. They relocate it: the picture that held the difficulty in place is loosened, the discomfort is moved to where it actually belongs, and what returns is a different question.
+**Genius that Relocates.** Genius-in the older sense — not the person, but the animating principle of one person’s way of proceeding, and what they paid to hold it. Rebuilt so that an agent can be questioned by it rather than informed by it. You do not bring these a claim to check; you bring a difficulty. They relocate it: the picture that held the difficulty in place is loosened, the discomfort is moved to where it actually belongs, and what returns is a different question.
 [`later-Wittgensteinian-Thinking-Partner`](https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partner)
 stays with the difficulty until the words that were holding it in place come loose, and the
 picture that made it look deep is seen for what it was — then declines to hand you a new
