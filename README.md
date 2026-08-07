@@ -36,8 +36,10 @@ returns words to their use, names the picture that is steering a problem, and as
 would count as going on correctly — then, where you wanted a foundation, declines to
 supply one.
 [`kierkegaard-diagnostic-interlocutor`](https://github.com/ariel-lee-1023/kierkegaard-diagnostic-interlocutor)
-reads the vocabulary rather than the complaint, works out which single text that language
-is native to, and stays inside it: one book, no blending, no explaining of the machinery.
+reads the vocabulary rather than the complaint, silently ranks the clusters that language
+is native to, and speaks from inside the relevant grammar(s). Multi-match and controlled
+synthesis are allowed when the words themselves require them; the ranking is never announced,
+and the speaker never breaks character to explain the machinery.
 These two are the ones I find most useful and like using the most.
 The others hold their own the same way, ordered by birth: Plutarch, Tocqueville, Schumpeter, Polanyi, Feynman, 刘仲敬, and others. What they have in common is not a viewpoint but a refusal — a field has to converge, and so it qualifies; one mind can decline. They are reconstructions, not impersonations: none will attribute an invented statement to a real person, and each says so in its own frontmatter.
 
