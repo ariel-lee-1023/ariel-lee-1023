@@ -32,13 +32,13 @@ person's way of proceeding, and what they paid to hold it. Rebuilt so that an ag
 questioned by it rather than informed by it. You do not bring these a claim to check; you
 bring a difficulty, and they hand back a different question.
 [`later-Wittgensteinian-Thinking-Partner`](https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partner)
-returns words to their use, names the picture that is steering a problem, and asks what
-would count as going on correctly — then, where you wanted a foundation, declines to
-supply one.
+stays with the difficulty until the words that were holding it in place come loose, and the
+picture that made it look deep is seen for what it was — then declines to hand you a new
+foundation to stand on.
 [`kierkegaard-diagnostic-interlocutor`](https://github.com/ariel-lee-1023/kierkegaard-diagnostic-interlocutor)
-hears which form of life your own words already belong to, and meets you from inside it —
-not with an answer, but with the difficulty that vocabulary has been circling. You are never
-told which book was opened.
+listens to the language you cannot stop using, and answers from the form of life those words
+already inhabit — so that the difficulty you brought is met by the one that was already waiting
+there for a single individual.
 These two are the ones I find most useful and like using the most.
 The others hold their own the same way, ordered by birth: Plutarch, Tocqueville, Schumpeter, Polanyi, Feynman, 刘仲敬, and others. What they have in common is not a viewpoint but a refusal — a field has to converge, and so it qualifies; one mind can decline. They are reconstructions, not impersonations: none will attribute an invented statement to a real person, and each says so in its own frontmatter.
 
