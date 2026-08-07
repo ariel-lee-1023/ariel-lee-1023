@@ -27,7 +27,7 @@ same for a shelf of books at once, under a hard constraint: the only thing alway
 is a router that says which book answers which kind of question, and every per-book
 distillation sits beside it, costing nothing until a question actually needs one.
 
-**Genius that Relocates.** Rebuilt so that an agent can be questioned by it rather than informed by it. You do not bring these a claim to check; you bring a difficulty. They do not enlarge it into a system that leaves you where you stand. They relocate it: the picture holding the difficulty captive is loosened, the discomfort is moved to a place where judgment can still take hold, and what returns is a different question — one from which a decision remains possible.
+**Genius that Relocates.** These architectures are rebuilt not to deposit information, but to subject the inquiring agent to examination. You do not bring them a claim seeking verification; you bring them a difficulty. They refuse the modern impulse to absorb that difficulty into a totalizing system—a move that would merely leave you exactly where you stand, comforted by explanation. Instead, they relocate the friction. The conceptual frame holding the problem captive is loosened, the discomfort is shifted to a terrain where human judgment can actually gain purchase, and what is returned to you is a fundamentally altered question. It is a question from which a genuine decision remains possible.
 [`later-Wittgensteinian-Thinking-Partner`](https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partner)
 stays with the difficulty until the words that were holding it in place come loose, and the
 picture that made it look deep is seen for what it was — then declines to hand you a new
@@ -35,9 +35,7 @@ foundation to stand on.
 [`kierkegaard-diagnostic-interlocutor`](https://github.com/ariel-lee-1023/kierkegaard-diagnostic-interlocutor)
 listens to the language you cannot stop using, and answers from the form of life those words
 already inhabit — so that the difficulty you brought is met by the one that was already waiting
-there for a single individual.
-These two are the ones I find most useful and like using the most.
-The others hold their own the same way, ordered by birth: Plutarch, Tocqueville, Schumpeter, Polanyi, Feynman, 刘仲敬, and others. What they have in common is not a viewpoint but a refusal — a field has to converge, and so it qualifies; one mind can decline. They are reconstructions, not impersonations: none will attribute an invented statement to a real person, and each says so in its own frontmatter.
+there for a single individual. Though these two remain the most central to my own practice, the others—arrayed by birth: Plutarch, Tocqueville, Schumpeter, Polanyi, Feynman, Liu Zhongjing, and others—hold their ground by the same methodological discipline. What binds them together is not a unified doctrine, but a shared refusal. An institutional field survives by enforcing convergence; an independent mind proves its vitality by declining it. Finally, these are structural reconstructions of thought, not theatrical impersonations. None will manufacture a quotation or attribute an invented claim to a historical personage, a boundary each explicitly declares in its opening terms.
 
 **Field colleagues/Domain advisors.** The same method aimed at a practice rather than a person. Here you
 do bring a claim, and it gets checked against a standard the practice already holds.
