@@ -27,7 +27,7 @@ same for a shelf of books at once, under a hard constraint: the only thing alway
 is a router that says which book answers which kind of question, and every per-book
 distillation sits beside it, costing nothing until a question actually needs one.
 
-**Genius.** In the older sense — not the person, but the animating principle of one
+**Genius for Difficulty.** In the older sense — not the person, but the animating principle of one
 person's way of proceeding, and what they paid to hold it. Rebuilt so that an agent can be
 questioned by it rather than informed by it. You do not bring these a claim to check; you
 bring a difficulty, and they hand back a different question.
