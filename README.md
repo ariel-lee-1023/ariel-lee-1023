@@ -59,8 +59,6 @@ local regulations, rules, judicial interpretations, guiding cases, and court gui
 documents, in that order of authority — and converts them from official PDFs to
 normalized Markdown through an automated pipeline: text-layer extraction with dual-column
 gazette handling, Chinese OCR where the source is scanned, and a last-resort fallback.
-The hierarchy is the point; an agent that cites from it cannot silently treat a
-departmental rule as a statute.
 
 ---
 
