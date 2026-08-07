@@ -10,12 +10,9 @@ Concretely: a philosopher's collected work, a line of case law, a shelf of decis
 
 ## What's here
 
-**Reasoning engines.** Where the subject has actual mathematics, the deliverable is code
-rather than prose. [`dominant-circuit`](https://github.com/ariel-lee-1023/dominant-circuit)
-is a Python decision-mechanics library — optimal stopping, multi-attribute utility,
-Markov decision processes — with a test suite, CI, and a design commitment that refusing
-to answer is a first-class output: ask it about a problem whose stated assumptions admit
-no solution and you get `NoOptimalStoppingRuleExists`, not a plausible number.
+**Reasoning engines.** Where a domain is governed by formal mathematics, prose is an evasion; the only adequate deliverable is executable logic.
+[`dominant-circuit`](https://github.com/ariel-lee-1023/dominant-circuit) is a Python library of decision mechanics—structuring optimal stopping, multi-attribute utility, and Markov decision processes. While it is secured by a strict test suite and continuous integration, its defining architectural commitment is an epistemological one: the refusal to answer is treated as a first-class output.
+If you present this engine with a problem whose stated assumptions admit no legitimate mathematical resolution, it absolutely refuses to generate a plausible but hollow number to placate you. Instead, it yields a definitive structural halt—such as NoOptimalStoppingRuleExists. It is built on the uncompromising premise that where an algorithm cannot legitimately calculate, it must explicitly confess its limits, returning the burden of ambiguity back to human judgment rather than manufacturing an illusion of certainty.
 
 **Meta-tools.** The Generative Infrastructure—the foundational pipelines that produce all other constructs. These are not mere utilities for automation; they are the architectural mechanisms that forge your structural companions, transforming raw records and vast literatures into precise instruments designed to refine your higher-order judgment.
 [`persona-distiller`](https://github.com/ariel-lee-1023/persona-distiller) translates a single individual’s public record into an embodiment-ready perspective. It rigorously discards the countable, superficial tics of stylistic imitation, selecting instead for the animating traits that actually distinguish that mind’s way of proceeding. By verifying its output against withheld material, it ensures the resulting skill functions as a genuine intellectual partner rather than a hollow caricature.
