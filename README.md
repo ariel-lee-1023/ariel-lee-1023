@@ -17,15 +17,9 @@ Markov decision processes — with a test suite, CI, and a design commitment tha
 to answer is a first-class output: ask it about a problem whose stated assumptions admit
 no solution and you get `NoOptimalStoppingRuleExists`, not a plausible number.
 
-**Meta-tools.** The pipelines that produce everything else.
-[`persona-distiller`](https://github.com/ariel-lee-1023/persona-distiller) turns one
-person's public record into an embodiment-ready perspective skill, selecting for the
-traits that actually distinguish that person rather than countable surface style, and
-verifying the result against held-out material.
-[`Books-to-Skill-Refs`](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) does the
-same for a shelf of books at once, under a hard constraint: the only thing always loaded
-is a router that says which book answers which kind of question, and every per-book
-distillation sits beside it, costing nothing until a question actually needs one.
+**Meta-tools.** The Generative Infrastructure—the foundational pipelines that produce all other constructs. These are not mere utilities for automation; they are the architectural mechanisms that forge your structural companions, transforming raw records and vast literatures into precise instruments designed to refine your higher-order judgment.
+[`persona-distiller`](https://github.com/ariel-lee-1023/persona-distiller) translates a single individual’s public record into an embodiment-ready perspective. It rigorously discards the countable, superficial tics of stylistic imitation, selecting instead for the animating traits that actually distinguish that mind’s way of proceeding. By verifying its output against withheld material, it ensures the resulting skill functions as a genuine intellectual partner rather than a hollow caricature.
+[`Books-to-Skill-Refs`](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) applies this same extractive discipline to an entire shelf of literature simultaneously, governed by a severe and necessary constraint. To preserve clarity and prevent the collapse of working memory, the only element perpetually loaded is a central router. This router acts as a discerning judge, identifying exactly which volume possesses the authority to address the specific difficulty at hand. The individual distillations wait silently in reserve, exacting no systemic cost until your inquiry explicitly demands their deployment. It is an architecture of disciplined attention, ensuring that when a decision must be made, the precise body of knowledge is summoned to meet it without overwhelming the space where your judgment must take place.
 
 **Genius that Relocates.** Genius—recovered here in its older, tutelary sense. It is not a metric of raw intellect, but the animating principle of a specific mind’s way of proceeding, and the exact price that mind paid to sustain its posture. These architectures have been rebuilt so that an artificial agent might be interrogated by this principle rather than merely informed by it. You do not bring these constructs a claim to be fact-checked; you bring them a difficulty to be unknotted.
 They do not expand your confusion into a sterile system that leaves you exactly where you stand. Rather, they relocate the tension. The conceptual picture holding your difficulty captive is loosened; the discomfort is shifted to a vantage point where higher-order judgment can finally take hold. What returns to you is not a pre-packaged solution, but a transformed question. In this way, they serve as rigorous companions in the cultivation of wisdom, accompanying you toward more elevated decisions while leaving the sovereignty of that choice entirely in your own hands.
