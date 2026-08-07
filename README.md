@@ -30,9 +30,7 @@ The rest of the cohort each holds a specific post, maintaining identical structu
 way a mind proceeds; the corpus carries what it actually said. Keeping them in separate
 repositories is what lets an agent be corrected by the record instead of by its own paraphrase
 of the record. Each is a search-first tree: where the corpus has matching text, that text
-governs, and the skill yields to it.
-
-[`prc-legal-sources`](https://github.com/ariel-lee-1023/prc-legal-sources) organizes PRC
+governs, and the skill yields to it. [`prc-legal-sources`](https://github.com/ariel-lee-1023/prc-legal-sources) organizes PRC
 legal materials by legal effect — constitution, statutes, administrative regulations,
 local regulations, rules, judicial interpretations, guiding cases, and court guidance
 documents, in that order of authority — and converts them from official PDFs to
